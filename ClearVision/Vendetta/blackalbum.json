@@ -1,10 +1,10 @@
 {
-    "name": "ClearVision v1.2.6",
-    "description": "Clear Vision paints serenity across the canvas of our Discord realm.",
+    "name": "Black Album",
+    "description": "I made a new repo for this.",
 	"authors": [
       {
-         "name": "Taki_Shiwa, edited by Sunny",
-         "id": "466968658997149706"
+         "name": "BruhHummus",
+         "id": "466968658997149707"
       }
     ],
     "semanticColors": {
@@ -516,7 +516,7 @@
 	"PLUM_22": "#0f1428"
     },
     "background": {
-        "url": "https://raw.githubusercontent.com/jamlotrasoiaf/ThemesCorrected/refs/heads/main/ClearVision/Vendetta/dark.jpg",
+        "url": "https://github.com/WonderWii-Modding/BlackAlbum/blob/main/ClearVision/Vendetta/dark.png?raw=true",
 	"alpha": 1
     },
     "plus": {
